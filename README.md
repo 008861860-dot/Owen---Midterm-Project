@@ -4,6 +4,8 @@ My game is "Destroy the Roids." A game meant to be about dodging and destroying 
 
 Group Members - Owen
 
+Assets Used
+
 Space ship models - 3D LowPoly Spaceships and Components (CC0) by Majadroid
 
 Shooting sound Effect - SCI:FI Weapon Starter [SFX] FREE by Sample Kingdom
